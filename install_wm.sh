@@ -96,5 +96,4 @@ chmod +x wm.sh
 
 echo -e "\e[32m[✓] Done! Script wm.sh successfully created and ready to use.\e[0m"
 echo -e "To start the desktop environment, run: \e[36m./wm.sh\e[0m"
-echo -e "\e[36minstall_wm.sh\e[0m is no longer needed and can be deleted"
 
