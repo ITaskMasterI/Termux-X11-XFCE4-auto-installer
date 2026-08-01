@@ -18,7 +18,7 @@ A shell script to automatically install XFCE4 and create a startup script for Te
 Run this command directly in your Termux terminal to install XFCE4 and create the launcher:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/ITaskMasterI/Termux-X11-XFCE4-auto-installer/refs/heads/main/install_wm.sh](https://raw.githubusercontent.com/ITaskMasterI/Termux-X11-XFCE4-auto-installer/refs/heads/main/install_wm.sh) | bash
+curl -sSL https://raw.githubusercontent.com/ITaskMasterI/Termux-X11-XFCE4-auto-installer/refs/heads/main/install_wm.sh | bash
 ```
 
 
