@@ -47,4 +47,3 @@ The installer runs sequentially inside native Termux and performs the following 
 
 5. **Finalization:**
    - Makes `wm.sh` executable (`chmod +x`).
-   - After installation, the setup script is no longer needed and can be safely deleted.
