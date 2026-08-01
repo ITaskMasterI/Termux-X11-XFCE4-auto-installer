@@ -8,6 +8,8 @@ A shell script to automatically install XFCE4 and create a startup script for Te
 
 # Important
 - Install **Termux** and **Termux:X11** from official F-Droid or GitHub releases (do **NOT** use the Play Store version).
+- Make sure **`curl`** is installed in Termux (`pkg install curl -y`) before running the command.
+
 
 ---
 
