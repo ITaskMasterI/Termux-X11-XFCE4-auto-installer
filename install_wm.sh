@@ -31,6 +31,7 @@ install_if_missing() {
 # 2. Check required packages
 install_if_missing "xfce4"
 install_if_missing "virglrenderer-android"
+install_if_missing "termux-x11-nightly"
 
 # 3. Self-creation of the wm.sh script
 echo -e "\e[34m[*] Creating startup script wm.sh...\e[0m"
